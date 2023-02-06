@@ -1,0 +1,1 @@
+the sum of the minimal and maximal numbers in the file "numbers.txt" == 36
